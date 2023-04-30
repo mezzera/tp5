@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+}
+
+nav li {
+    display: inline block;
+    float: right;
+    list-style: none;
+    padding: 10px;
+}
+
+table {
+ width: 100%;
+ 
+}
+
+th, td {
+    text-align: center;
+}
+
+img {
+    width: auto;
+}
+
+
+
+.negrita1 {
+    font-weight: bold;
+    font-size: 40px;
+    color: blueviolet;
+}
+
+.cursiva1 {
+    font-style: italic;
+    color: blueviolet;
+}
+
+.negrita2 {
+    font-weight: bold;
+    font-size: 40px;
+    color: red;
+}
+
+.cursiva2 {
+    font-style: italic;
+    color: red;
+}
+
+.negrita3 {
+    font-weight: bold;
+    font-size: 40px;
+    color: yellow
+}
+
+.cursiva3 {
+    font-style: italic;
+    color: yellow
+}
+
+.negrita4 {
+    font-weight: bold;
+    font-size: 40px;
+    color: green;
+}
+
+.cursiva4 {
+    font-style: italic;
+    color: green;
+}
+
+.negrita5 {
+    font-weight: bold;
+    font-size: 40px;
+    color: pink;
+}
+
+.cursiva5 {
+    font-style: italic;
+    color: pink;
+}
+
+.contacto{
+    border : 2px solid grey;
+    border-radius: 10px;
+    margin-top: 0;
+    padding-bottom: 300px;
+    background-color: burlywood;
+    width: 100%;
+   text-align: center;
+
+ 
+    
+}
+
+h1 {
+    color:rgb(79, 122, 151);
+}
+
+.footer {
+    background-color: gray;
+    width: 100%;
+    height: 50vh;
+}
+
+.footer ul li {
+    list-style: none;
+    margin: 20px;
+    
+}
+
+
+.footer a {
+    text-decoration: none;
+}
+
+.alinearsexo {
+   justify-content: center;
+    margin-left: 35px;
+}
+
+#pais {  
+background-color:aliceblue;
+ padding: 4px;
+}
+
+.botones {
+  padding:6px;
+
+
+}
+
+textarea {
+     width: 500px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
+
+h4 {
+    margin-top: 20px;
+}
+
